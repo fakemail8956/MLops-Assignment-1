@@ -19,7 +19,5 @@ The objective is to learn how to:
 - Enable collaboration between multiple contributors  
 - Track changes and manage project history efficiently  
 
----
 
-## 📁 Repository Contents
 
