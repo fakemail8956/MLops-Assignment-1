@@ -17,7 +17,7 @@ The objective is to learn how to:
 - Understand the basics of Git and GitHub for ML projects  
 - Maintain proper version control for code and data  
 - Enable collaboration between multiple contributors  
-- Track changes and manage project history efficiently  
+
 
 
 
